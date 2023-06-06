@@ -1,4 +1,4 @@
-package com.example.concurrency.basic;
+package com.example.concurrency.basics;
 
 public class MyRunnable implements Runnable{
     private final int number;

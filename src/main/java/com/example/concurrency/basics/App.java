@@ -1,4 +1,4 @@
-package com.example.concurrency.basic;
+package com.example.concurrency.basics;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
